@@ -1,4 +1,4 @@
-# Hnad Cricket
+# Hand Cricket
 ## Hand Cricket in Python
 This repository contains a text-based Hand Cricket game written in Python! Relive the classic childhood game with this simple and engaging implementation.
 
