@@ -20,7 +20,7 @@ Uses the random module for realistic gameplay.
 
 Clone this repository:
 ```bash
-git clone https://github.com/AshinSMathew/Hand-Cricket.git
+git clone https://github.com/AshinSMathew/Hand_Cricket.git
 ```
 Run the game:
 ```bash
