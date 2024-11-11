@@ -18,8 +18,10 @@ Uses the random module for realistic gameplay.
 
 ### Getting Started:
 
-Clone this repository: git clone https://github.com/AshinSMathew/Hand-Cricket.git
-
+Clone this repository:
+```bash
+git clone https://github.com/AshinSMathew/Hand-Cricket.git
+```
 Run the game: python Hand_Cricket.py
 
 
