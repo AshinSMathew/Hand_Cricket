@@ -22,8 +22,10 @@ Clone this repository:
 ```bash
 git clone https://github.com/AshinSMathew/Hand-Cricket.git
 ```
-Run the game: python Hand_Cricket.py
-
+Run the game:
+```bash
+python Hand_Cricket.py
+```
 
 ## Contributing:
 
