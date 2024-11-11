@@ -20,8 +20,6 @@ Uses the random module for realistic gameplay.
 
 Clone this repository: git clone https://github.com/AshinSMathew/Hand-Cricket.git
 
-Install required packages: pip install -r requirements.txt (optional)
-
 Run the game: python Hand_Cricket.py
 
 
@@ -31,7 +29,7 @@ We welcome contributions to improve this game! Feel free to fork the repository,
 
 Additional Notes:
 
-This is a simple implementation and can be extended with features like different difficulty levels, multiplayer mode, etc.
+This is a simple implementation and can be extended with features like different difficulty levels etc.
 Consider adding comments and docstrings to improve code readability.
 
 Keywords: hand cricket, python, random, game, text-based
