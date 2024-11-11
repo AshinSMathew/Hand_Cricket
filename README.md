@@ -16,7 +16,7 @@ Simple and clear text-based interface.
 
 Uses the random module for realistic gameplay.
 
-### Getting Started:
+## Getting Started:
 
 Clone this repository:
 ```bash
@@ -25,7 +25,7 @@ git clone https://github.com/AshinSMathew/Hand-Cricket.git
 Run the game: python Hand_Cricket.py
 
 
-### Contributing:
+## Contributing:
 
 We welcome contributions to improve this game! Feel free to fork the repository, make changes, and submit pull requests.
 
